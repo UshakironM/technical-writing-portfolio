@@ -76,3 +76,18 @@ TKR Institute of Management & Science, Osmania University, Hyderabad
 **B.Sc. Biotechnology**  
 AMS College for Women  
 2015 – 2018
+
+## Documentation Approach
+
+This portfolio demonstrates modern technical writing practices,
+including:
+
+- Docs-as-Code
+- Git and GitHub workflows
+- Markdown authoring
+- API documentation
+- OpenAPI / Swagger
+- Knowledge management
+- Documentation strategy
+- Content governance
+- AI-assisted documentation
