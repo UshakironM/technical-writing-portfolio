@@ -76,3 +76,33 @@ TKR Institute of Management & Science, Osmania University, Hyderabad
 **B.Sc. Biotechnology**  
 AMS College for Women  
 2015 – 2018
+
+## Documentation Approach
+
+This portfolio demonstrates modern technical writing practices through
+hands-on documentation projects.
+
+### Docs-as-Code
+
+Documentation is maintained using Git, GitHub, Markdown, pull requests,
+reviews, and version control.
+
+### API Documentation
+
+API documentation demonstrates REST concepts, HTTP methods, request and
+response structures, authentication, error handling, and OpenAPI.
+
+### Knowledge Management
+
+The portfolio demonstrates information architecture, content organization,
+documentation governance, and knowledge lifecycle management.
+
+### Documentation Strategy
+
+Documentation projects demonstrate requirements analysis, content planning,
+audience identification, prioritization, and documentation roadmaps.
+
+### Content Governance
+
+Content governance practices include documentation standards, review
+workflows, quality checks, ownership, and content maintenance.
