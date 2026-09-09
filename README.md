@@ -79,15 +79,30 @@ AMS College for Women
 
 ## Documentation Approach
 
-This portfolio demonstrates modern technical writing practices,
-including:
+This portfolio demonstrates modern technical writing practices through
+hands-on documentation projects.
 
-- Docs-as-Code
-- Git and GitHub workflows
-- Markdown authoring
-- API documentation
-- OpenAPI / Swagger
-- Knowledge management
-- Documentation strategy
-- Content governance
-- AI-assisted documentation
+### Docs-as-Code
+
+Documentation is maintained using Git, GitHub, Markdown, pull requests,
+reviews, and version control.
+
+### API Documentation
+
+API documentation demonstrates REST concepts, HTTP methods, request and
+response structures, authentication, error handling, and OpenAPI.
+
+### Knowledge Management
+
+The portfolio demonstrates information architecture, content organization,
+documentation governance, and knowledge lifecycle management.
+
+### Documentation Strategy
+
+Documentation projects demonstrate requirements analysis, content planning,
+audience identification, prioritization, and documentation roadmaps.
+
+### Content Governance
+
+Content governance practices include documentation standards, review
+workflows, quality checks, ownership, and content maintenance.
