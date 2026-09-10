@@ -106,3 +106,9 @@ audience identification, prioritization, and documentation roadmaps.
 
 Content governance practices include documentation standards, review
 workflows, quality checks, ownership, and content maintenance.
+
+## Git Workflow
+
+This portfolio uses a Git-based documentation workflow that supports
+version control, feature branches, pull requests, content reviews,
+and controlled publishing.
