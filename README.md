@@ -111,4 +111,8 @@ workflows, quality checks, ownership, and content maintenance.
 
 This portfolio uses a Git-based documentation workflow that supports
 version control, feature branches, pull requests, content reviews,
-and controlled publishing to production.
+and controlled publishing to production for documentation teams.
+
+## Git Branch Practice
+
+This section was created on the feature/git-practice branch.
