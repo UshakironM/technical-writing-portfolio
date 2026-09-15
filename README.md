@@ -111,4 +111,4 @@ workflows, quality checks, ownership, and content maintenance.
 
 This portfolio uses a Git-based documentation workflow that supports
 version control, feature branches, pull requests, content reviews,
-and controlled publishing.
+and controlled publishing to production.
