@@ -118,7 +118,7 @@ and controlled publishing to production for documentation teams.
 This section was created on the feature/git-practice branch.
 ## API Authentication
 
-API requests require authentication using an API key.
+1. API requests require authentication using an API key.
 
 Include the API key in the request header:
 
